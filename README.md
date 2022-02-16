@@ -2,8 +2,11 @@
 This is a python threaded portscanner to scan websites and ipaddresses.
 
 To run the script:
+
 git clone the file.
+
 chmod +x portscanner.py
+
 python portscanner.py
 
 PORTSCANNING IN PYTHON 1
